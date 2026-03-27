@@ -1,17 +1,18 @@
 # SG-NLOSTrack
-Code and Dataset for "SG-NLOSTrack: Semantic-Guided Non-Line-of-Sight Target Tracking."
 
+Dataset repository for **“SG-NLOSTrack: Semantic-Guided Non-Line-of-Sight Target Tracking.”**
 
-## 📦 Dataset
+## Paper
 
-You can download the dataset from the following link (coming soon).  
-After downloading, place the files under the `data/` directory.
+The paper has been published in **2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)**.
 
-## 🧠 Model & Method
+**Title:** SG-NLOSTrack: Semantic-Guided Non-Line-of-Sight Target Tracking  
+**Authors:** Ziwei Li, Masahiro Hirano, Qitong Guo, Ruoyu Jia, Yuji Yamakawa  
+**DOI:** 10.1109/ITSC60802.2025.11423163
 
-The method leverages semantic priors and multimodal fusion of millimeter-wave radar and monocular camera for NLOS depth-aware tracking.
+## Dataset
 
-## 🚀 Run
+The dataset is currently under **final check** and will be released in **1–2 weeks**.
 
-```bash
-python train.py
+The download link will be added to this repository once the release is ready.
+
